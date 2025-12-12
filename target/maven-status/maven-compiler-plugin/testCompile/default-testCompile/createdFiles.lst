@@ -1,0 +1,9 @@
+stepDefinition2\Login2Steps.class
+testRunner\RunPrac.class
+configsReader\ConfigsReader.class
+driverFactory2\DriverFactory2.class
+stepDefinition2\EmergencyContactSteps.class
+excelUtility\ExcelReader2.class
+stepDefinition2\EmployeePersonalDetailsSteps.class
+myHooks2\MyHooks2.class
+stepDefinition2\PIMPageSteps.class
